@@ -1,0 +1,3 @@
+every line has the format userID,itemID,value. 
+Here userID and itemID refer to a particular user and a particular item, 
+and value denotes the strength of the interaction (e.g. the rating given to an item).
